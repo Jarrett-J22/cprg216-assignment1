@@ -29,3 +29,5 @@ while True:
 print("This is the list of students in the system, and their average GPA")
 for name in students:
     print(name, round(students[name], 2))
+    
+input("Press Enter to exit...")
