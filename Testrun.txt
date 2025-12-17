@@ -1,0 +1,170 @@
+PS C:\Users\dania\OneDrive\Pictures\Documents\CPRG-216-D> & C:/Users/dania/AppData/Local/Programs/Python/Python313/python.exe c:/Users/dania/OneDrive/Pictures/Documents/CPRG-216-D/cprg216-assignment1/ProjectCars.py
+Welcome to the Car Inventory Program
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 1
+Enter Car ID: 4
+Enter name: Kia_rondo 2024
+Enter make: Kia
+Enter body type: SUV
+Enter year: 2024
+Enter value: 10000
+Car added.
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 1
+Enter Car ID: 5
+Enter name: Honda civic 2010
+Enter make: Honda
+Enter body type: Sedan
+Enter year: 2010
+Enter value: 7000
+Car added.
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 1
+Enter Car ID: 6
+Enter name: BMW_x1
+Enter make: BMW
+Enter body type: Sedan
+Enter year: 2010
+Enter value: 20000
+Car added.
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 2
+Enter Car ID to search: 4
+ID: 4 | Name: Kia_rondo 2024 | Make: Kia | Body: SUV | Year: 2024 | Value: $10000.0
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 2
+Enter Car ID to search: 5
+ID: 5 | Name: Honda civic 2010 | Make: Honda | Body: Sedan | Year: 2010 | Value: $7000.0
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 2
+Enter Car ID to search: 7
+Car not found.
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 3
+Enter Car ID to edit: 6
+Leave blank to keep current value.
+New name (BMW_x1): BMW_x2
+New make (BMW): BMW
+New body (Sedan): Sedan
+New year (2010): 2020
+New value (20000.0): 30000
+Car updated.
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 4
+Enter Car ID to remove: 6
+Car removed.
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 5
+
+--- Car Inventory ---
+ID: 1 | Name: Toyota Camry | Make: Toyota | Body: Sedan | Year: 2019 | Value: $25000.0
+ID: 2 | Name: BMW 8 Series | Make: BMW | Body: Coupe | Year: 2021 | Value: $80000.0
+ID: 3 | Name: Mercedes C63 | Make: Mercedes-Benz | Body: Sedan | Year: 2020 | Value: $66000.0
+ID: 4 | Name: Kia_rondo 2024 | Make: Kia | Body: SUV | Year: 2024 | Value: $10000.0
+ID: 5 | Name: Honda civic 2010 | Make: Honda | Body: Sedan | Year: 2010 | Value: $7000.0
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 6
+Data saved to file.
+Goodbye!
+PS C:\Users\dania\OneDrive\Pictures\Documents\CPRG-216-D> 5
+5
+PS C:\Users\dania\OneDrive\Pictures\Documents\CPRG-216-D> & C:/Users/dania/AppData/Local/Programs/Python/Python313/python.exe c:/Users/dania/OneDrive/Pictures/Documents/CPRG-216-D/cprg216-assignment1/ProjectCars.py  
+Welcome to the Car Inventory Program
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit 
+Enter your choice (1-6): 5
+
+--- Car Inventory ---
+ID: 1 | Name: Toyota Camry | Make: Toyota | Body: Sedan | Year: 2019 | Value: $25000.0
+ID: 2 | Name: BMW 8 Series | Make: BMW | Body: Coupe | Year: 2021 | Value: $80000.0
+ID: 3 | Name: Mercedes C63 | Make: Mercedes-Benz | Body: Sedan | Year: 2020 | Value: $66000.0
+ID: 4 | Name: Kia_rondo 2024 | Make: Kia | Body: SUV | Year: 2024 | Value: $10000.0
+ID: 5 | Name: Honda civic 2010 | Make: Honda | Body: Sedan | Year: 2010 | Value: $7000.0
+
+Main Menu
+1. Add a car
+2. Search for car
+3. Edit car info
+4. Remove a car
+5. Print the car list
+6. Save the data to a file and Exit
+Enter your choice (1-6): 6
+Data saved to file.
+Goodbye!
+PS C:\Users\dania\OneDrive\Pictures\Documents\CPRG-216-D>
